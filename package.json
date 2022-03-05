@@ -5,6 +5,8 @@
   "homepage": "https://matsu7089.github.io/react-kanban-board",
   "dependencies": {
     "@chakra-ui/react": "^1.8.6",
+    "@dnd-kit/core": "^5.0.1",
+    "@dnd-kit/sortable": "^6.0.0",
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
     "@testing-library/jest-dom": "^5.14.1",
